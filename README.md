@@ -12,9 +12,7 @@ I'm a software developer based in Karachi, specializing in web development and c
 
 ## Top Projects
 
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessasara&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## GitHub Stats
@@ -23,7 +21,6 @@ I'm a software developer based in Karachi, specializing in web development and c
 🔭 **Public Repositories**: 39  
 👥 **Followers**: 31  
 👤 **Following**: 29
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessasara&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
@@ -37,3 +34,4 @@ I'm a software developer based in Karachi, specializing in web development and c
 ## Connect with Me
 
 <a href="https://www.youtube.com/@Codewithhsarah" target="_blank" rel="noopener noreferrer"><Icon /> Youtube</a> | <a href="https://www.linkedin.com/in/venisasara" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
+
