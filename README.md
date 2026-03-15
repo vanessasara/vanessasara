@@ -33,5 +33,5 @@ I'm a software developer based in Karachi, specializing in web development and c
 
 ## Connect with Me
 
-<a href="https://www.youtube.com/@Codewithhsarah" target="_blank" rel="noopener noreferrer"><Icon /> Youtube</a> | <a href="https://www.linkedin.com/in/venisasara" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
+<a href="https://www.youtube.com/@Codewithhsarah" target="_blank" rel="noopener noreferrer"><Icon /> Youtube</a> | <a href="https://www.linkedin.com/in/venisa-sarah-devops" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a>
 
