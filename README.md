@@ -1,16 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
-
-# Venisa Sara
-### DevOps Engineer · Agentic AI Builder · Platform Thinker
-
-*Karachi, Pakistan — shipping infrastructure that thinks for itself.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venisa-sarah-devops)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Codewithhsarah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://portfolio2-one-black.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=vanessasara&style=flat-square&color=302b63&label=views)
+<img src="https://raw.githubusercontent.com/vanessasara/vanessasara/main/github_banner.png" width="100%" alt="Venisa Sara — DevOps & Agentic AI Engineer"/>
 
 </div>
 
@@ -79,6 +69,10 @@ My current obsession is at the intersection of **platform engineering** and **LL
 
 *Automating the boring. Observing the critical. Building what's next.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venisa-sarah-devops)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Codewithhsarah)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio2-one-black.vercel.app)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=vanessasara&style=flat-square&color=6366f1&label=Profile+Views)
 
 </div>
